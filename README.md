@@ -1,11 +1,6 @@
-# Homework Assignment Part 2
-
-- Applicant: Kasra Azizbaigi
-- email: kasra.azizbaigi@gmail.com
-
 ## Project Overview
 
-The part 2 of the homework assignment is a Python application that simulates the operation of a pet shop. It includes two main classes, `Cat` and `Dog`, which represent cats and dogs that can be added to a database. The project also features a `Data` class responsible for managing database interactions, and a set of unit tests to ensure the functionality of the `Cat` and `Data` classes. It also features a sql file including SQL statement to create tables and sample insert statements.
+This is a Python application that simulates the operation of a pet shop. It includes two main classes, `Cat` and `Dog`, which represent cats and dogs that can be added to a database. The project also features a `Data` class responsible for managing database interactions, and a set of unit tests to ensure the functionality of the `Cat` and `Data` classes. It also features a sql file including SQL statement to create tables and sample insert statements.
 
 ## File Structure
 
